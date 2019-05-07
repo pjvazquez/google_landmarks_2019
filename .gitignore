@@ -1,0 +1,4 @@
+# ignora el contenido de la carpeta data
+data/
+.ipynb_checkpoints/
+
